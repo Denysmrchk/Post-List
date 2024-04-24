@@ -1,0 +1,41 @@
+* {
+  color: rgb(0, 164, 243);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(31, 31, 31);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  width: 800px;
+}
+
+.post {
+  display: flex;
+  padding: 15px;
+  border: 2px solid rgb(208, 129, 63);
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+.post__btns {
+  display: flex;
+}
+.navbar {
+  height: 50px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  background-color: rgb(31, 29, 28);
+}
+
+.navbar__links {
+  margin-left: auto;
+}
