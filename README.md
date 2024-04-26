@@ -8,6 +8,3 @@
 <img src="/public/screenshorts/screenshot1.png" alt="Screenshot project">
 <img src="/public/screenshorts/screenshot3.png" alt="Screenshot project">
 <img src="/public/screenshorts/screenshot2.png" alt="Screenshot project">
-![Screenshot project](/public/screenshorts/screenshot1.png)
-![Screenshot project](/public/screenshorts/screenshot3.png)
-![Screenshot project](/public/screenshorts/screenshot2.png)
